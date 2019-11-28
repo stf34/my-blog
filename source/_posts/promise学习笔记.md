@@ -1,5 +1,6 @@
 ---
-title: 世界我来了
+title: promise的使用
+data: 2018-12月
 ---
 
 ## 测试
