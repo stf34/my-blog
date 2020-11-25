@@ -944,7 +944,7 @@ hexo-bunyan@^2.0.0:
     mv "~2"
     safe-json-stringify "~1"
 
-hexo-cli@^3.0.0:
+hexo-cli@^3.0.0, hexo-cli@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/hexo-cli/-/hexo-cli-3.1.0.tgz#a7414d4647333fe73762f86d77e5660659c0d05b"
   integrity sha512-Rc2gX2DlsALaFBbfk1XYx2XmeVAX+C7Dxc7UwETZOcu3cbGsf2DpwYTfKQumW3jagi1icA4KgW9aSRPPZZj/zg==
@@ -1121,9 +1121,9 @@ hexo@^4.0.0:
     warehouse "^3.0.1"
 
 highlight.js@^9.13.1:
-  version "9.16.2"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.16.2.tgz#68368d039ffe1c6211bcc07e483daf95de3e403e"
-  integrity sha512-feMUrVLZvjy0oC7FVJQcSQRqbBq9kwqnYE4+Kj9ZjbHh3g+BisiPgF49NyQbVLNdrL/qqZr3Ca9yOKwgn2i/tw==
+  version "9.18.5"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.5.tgz#d18a359867f378c138d6819edfc2a8acd5f29825"
+  integrity sha512-a5bFyofd/BHCX52/8i8uJkjr9DYwXIPnM/plwI6W7ezItLGqzt7X2G2nXuYSfsIJdkwwj/g9DG1LkcGJI/dDoA==
 
 html-entities@^1.2.1:
   version "1.2.1"
